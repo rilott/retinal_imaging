@@ -1,0 +1,15 @@
+*.hd5
+*.h5
+model*.json
+model*.png
+__pycache__/
+vendored/
+.vscode/
+preview/
+runs/
+bin/trained_models/
+bin/logs
+build/
+*.png
+**/.serverless/
+nikolas/
